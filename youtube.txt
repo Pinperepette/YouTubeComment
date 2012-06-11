@@ -1,0 +1,43 @@
+lu5ti: am I﻿ able to get this for myself? where?
+nectarineblu: doesnt compare to XBMC or Mythtv .. has﻿ a long way to go.
+u2roc: buen video
+fighterpiolt199: it would﻿ be awesome to flash the rom on my TV and put this on :)
+symanleedsu: at the start of this video the screen changes from an operating system to a tv settop box. How do you﻿ get that on? i have this on a pc but cant find out how to make it work????
+aandre31: i have a tv card on my pc will it﻿ work too?
+MrTuberiz: if ubutu 12.04 had neflix working i would switch﻿ to it but right now i will stick to windows i like watching netflix.
+stirch: the omly﻿ way I know to use netflix on linux would be to run windows in VMware. Some one made a lite version of winXP. That was really small(for windows) so you could run things better this way. but it is still a hassle.
+fatrif: I﻿ run it using crossover
+duane207: It does work. Install VM, install Windows inside of VM. Wahlah,﻿ it is now working. That wasnt hard. LOL
+tangypast: Is making shortcuts easy now? With ubuntu 11.10 you﻿ have to use terminal...its ridiculous that﻿ something so basic must be made so complicated
+CreativeTuxVlog: Interesting to see LoveFilm on the list considering they just change﻿ from Flash to Silverlight and it no longer works on Linux systems.
+fitoschid: I like this demo! Looks very polished. People,﻿ the lagging is in the video!
+EricssonX: is that my computer﻿ or the horrible lagging
+AboveEmAllProductio: lol how laggy it is :/ ugly﻿
+stirch: It﻿ needs netflix!!!!
+ChozoSR38: NetFlix will never be available on Linux because Micro$oft rules Silverlight with the﻿ iron fist of DRM...
+stirch: 
+MrBurritoGu: apple has a core﻿ of unix, as does linux. 
+duane207: Linux does﻿ not run Unix at its core. It isnt even programmed the same. The architecture is even different in the Kernel, so how can it run Unix at its core? Massive lack of research on your part = FAIL.
+MrBurritoGu: you are correct, but it&#39;s﻿ basic structure is modeled after unix =P
+duane207: That comment is still wrong. It is not even modelled after it. It is Unix &quot;Like&quot;. Two big differences there. That means they would have a source to the code and they did not. Sorry, it just﻿ irritates me when I see that. No offense to you.
+MrBurritoGu: Haha well I suppose I must concede to﻿ your point. I&#39;ll work on speaking more clearly in the future.
+Nikotiini6: Apple has﻿ different unix kernel than Linux. They didn&#39;t want to pay for Linus Torvalds for using the same kernel as he did.
+untitled698: I think apple runs﻿ BSD Unix at its core, I could be wrong though
+duane207: In 2007, Mac OS X 10.5 &quot;Leopard&quot; was the first to have UNIX 03 certification. So no, it does not run Linux. Xbox 360 use a modified Windows 2000 kernel, obviously. Wii operates on a proprietary &quot;form&quot; of Linux Kernel. PS3 I believe﻿ they make there own in house. 
+UNIXSOLJ: Thats﻿ right.
+mrbobweave: one install wine two install safari one Wine Three Install siverlight to safari Four watch netflixs on Gnu/Linux
+aliancem: Sorry but it loks so ugly...﻿
+canzzzz: it should come with tv&#39;s pre-installed otherway there are a lot﻿ of to do for the end-user to get it work.
+goochfacekill: why is ubuntu never finish, seems to me like it&#39;s never finish, i tried﻿
+kroqgar7: In what way do you think﻿ that it&#39;s not finished? There will be changes made to any software.
+goochfacekill: people﻿ install it, tweak it, work on it and by the time it&#39;s amost perfect..15.05 is here
+nofallyaqo: 
+Mohs4: Software is by definition never finished. It can be stable, as behaving as expected. It also can be seen as &quot;fullfilling requirements&quot;. But the larger a software is, the lesser probable it can be seen﻿ as finished. It is continuous development.
+duane207: Its not the fact that it is never finished. They tweak things here and﻿ there and add stuff, remove stuff etc..It is the fact of making it stable, user friendly so on and so forth for the end user. Look at 11.04 unity, that was in the making since 2005. But you should be going after the LTS O.S. and not everything in between.
+SPEARSTUDI: Where did you find the desktop background?﻿
+KernelM: follow this link﻿ goo(dot)gl/05lAl
+afterlastsange: according Wiki, it&#39;s just tested with ubuntu 11.04. There was error about missing unity 4. In 12.04 this is﻿ unity 5.
+davidoso10: que bien ya lo﻿ estas toqueteando, parece que estar muy guapo
+KernelM: I compiled using the wiki.﻿
+
+The Winner is MrBurritoGu
