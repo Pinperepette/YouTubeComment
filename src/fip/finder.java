@@ -11,7 +11,7 @@ public class finder
 	 */
 	public static void main(String[] args)
 	{
-		// TODO Auto-generated method stub
+		// Variables used in the program
 		List<String> names = new ArrayList<String>();
 		URL url;
 		InputStream is = null;
@@ -22,13 +22,15 @@ public class finder
 		
 		try 
 		{
+			// Initialize Streams
 			fw = new FileWriter("youtube.txt");
 			out = new PrintWriter(fw);
 			url = new URL("http://www.youtube.com/all_comments?v=OBg9dqyhpXI");
 			
 			try
 			{
-				is = url.openStream();  // throws an IOException
+				// Initializes other variables
+				is = url.openStream();  
 				in = new BufferedReader(new InputStreamReader(is));
 				boolean nextLine = true;
 				boolean name = false;
@@ -39,7 +41,7 @@ public class finder
 				{
 					try
 					{
-						line = in.readLine(); // Will throw an exception if there is no next line
+						line = in.readLine(); 
 						if (comment)
 						{
 							int stopPoint = line.indexOf("</p>");
@@ -52,7 +54,7 @@ public class finder
 						{
 							int stopPoint = line.indexOf("class") - 3;
 							line = line.substring(31, stopPoint);
-							names.add(line);
+							if (!names.contains(line)) names.add(line);
 							out.println(line + ": " + commentString);
 							commentString = "";
 							name = false;
